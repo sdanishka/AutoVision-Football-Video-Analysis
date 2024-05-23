@@ -1,6 +1,6 @@
 opencv-python
 ultralytics
 numpy
-pickle
+pickle5
 pandas
 supervision
