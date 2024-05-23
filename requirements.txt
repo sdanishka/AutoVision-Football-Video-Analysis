@@ -4,4 +4,3 @@ numpy
 pandas
 supervision
 scikit-learn
-sklearn
