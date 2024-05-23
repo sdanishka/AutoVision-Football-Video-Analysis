@@ -1,1 +1,6 @@
 opencv-python
+ultralytics
+numpy
+pickle
+pandas
+supervision
