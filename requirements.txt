@@ -3,3 +3,4 @@ ultralytics
 numpy
 pandas
 supervision
+scikit-learn
